@@ -25,3 +25,6 @@ dist-ssr
 
 # pnpm
 pnpm-lock.yaml
+
+# storybook
+storybook-static
